@@ -1,0 +1,176 @@
+2023-07-13 20:31:22,335 :INFO :setup :launching browser
+2023-07-13 20:31:23,609 :INFO :setup :navigating to the url
+2023-07-13 20:31:36,607 :INFO :test_registration :Performing Registration
+2023-07-13 20:31:37,319 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-13 20:31:37,403 :INFO :test_registration :Performing Registration
+2023-07-13 20:31:37,403 :INFO :test_registration :Performing Registration
+2023-07-13 20:31:37,627 :INFO :test_registration :Name entered is Nivi
+2023-07-13 20:31:37,627 :INFO :test_registration :Name entered is Nivi
+2023-07-13 20:31:37,689 :INFO :test_registration :Performing Registration
+2023-07-13 20:31:37,689 :INFO :test_registration :Performing Registration
+2023-07-13 20:31:37,689 :INFO :test_registration :Performing Registration
+2023-07-13 20:31:38,341 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-13 20:31:38,341 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-13 20:31:38,341 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-13 20:31:38,403 :INFO :test_submit_msg :validate submit message
+2023-07-13 20:31:38,416 :INFO :setup :close the browser
+2023-07-13 20:39:02,206 :INFO :setup :launching browser
+2023-07-13 20:39:03,843 :INFO :setup :navigating to the url
+2023-07-13 20:39:10,612 :INFO :test_registration :Performing Registration
+2023-07-13 20:39:10,920 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-13 20:39:11,194 :INFO :test_registration :Performing Registration
+2023-07-13 20:39:11,194 :INFO :test_registration :Performing Registration
+2023-07-13 20:39:11,791 :INFO :test_registration :Name entered is Nivi
+2023-07-13 20:39:11,791 :INFO :test_registration :Name entered is Nivi
+2023-07-13 20:39:12,050 :INFO :test_registration :Performing Registration
+2023-07-13 20:39:12,050 :INFO :test_registration :Performing Registration
+2023-07-13 20:39:12,050 :INFO :test_registration :Performing Registration
+2023-07-13 20:39:12,277 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-13 20:39:12,277 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-13 20:39:12,277 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-13 20:39:12,536 :INFO :test_submit_msg :validate submit message
+2023-07-13 20:39:23,209 :INFO :setup :close the browser
+2023-07-14 12:20:31,185 :INFO :setup :launching browser
+2023-07-14 12:20:32,406 :INFO :setup :navigating to the url
+2023-07-14 12:20:35,237 :INFO :test_registration :Performing Registration
+2023-07-14 12:20:35,531 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 12:20:36,116 :INFO :test_registration :Performing Registration
+2023-07-14 12:20:36,116 :INFO :test_registration :Performing Registration
+2023-07-14 12:20:36,333 :INFO :test_registration :Name entered is Nivi
+2023-07-14 12:20:36,333 :INFO :test_registration :Name entered is Nivi
+2023-07-14 12:20:36,850 :INFO :test_registration :Performing Registration
+2023-07-14 12:20:36,850 :INFO :test_registration :Performing Registration
+2023-07-14 12:20:36,850 :INFO :test_registration :Performing Registration
+2023-07-14 12:20:37,066 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 12:20:37,066 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 12:20:37,066 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 12:20:37,577 :INFO :test_submit_msg :validate submit message
+2023-07-14 12:20:37,817 :INFO :setup :close the browser
+2023-07-14 12:22:52,295 :INFO :setup :launching browser
+2023-07-14 12:22:53,536 :INFO :setup :navigating to the url
+2023-07-14 12:22:56,527 :INFO :test_registration :Performing Registration
+2023-07-14 12:22:56,812 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 12:22:57,393 :INFO :test_registration :Performing Registration
+2023-07-14 12:22:57,393 :INFO :test_registration :Performing Registration
+2023-07-14 12:22:57,605 :INFO :test_registration :Name entered is Nivi
+2023-07-14 12:22:57,605 :INFO :test_registration :Name entered is Nivi
+2023-07-14 12:22:58,132 :INFO :test_registration :Performing Registration
+2023-07-14 12:22:58,132 :INFO :test_registration :Performing Registration
+2023-07-14 12:22:58,132 :INFO :test_registration :Performing Registration
+2023-07-14 12:22:58,352 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 12:22:58,352 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 12:22:58,352 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 12:22:58,882 :INFO :test_submit_msg :validate submit message
+2023-07-14 12:22:59,112 :INFO :setup :close the browser
+2023-07-14 13:05:54,108 :INFO :setup :launching browser
+2023-07-14 13:05:55,426 :INFO :setup :navigating to the url
+2023-07-14 13:05:58,194 :INFO :test_registration :Performing Registration
+2023-07-14 13:05:58,498 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 13:05:59,038 :INFO :test_registration :Performing Registration
+2023-07-14 13:05:59,038 :INFO :test_registration :Performing Registration
+2023-07-14 13:05:59,260 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:05:59,260 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:05:59,790 :INFO :test_registration :Performing Registration
+2023-07-14 13:05:59,790 :INFO :test_registration :Performing Registration
+2023-07-14 13:05:59,790 :INFO :test_registration :Performing Registration
+2023-07-14 13:06:00,015 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:06:00,015 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:06:00,015 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:06:00,557 :INFO :test_submit_msg :validate submit message
+2023-07-14 13:06:00,785 :INFO :setup :close the browser
+2023-07-14 13:07:21,352 :INFO :setup :launching browser
+2023-07-14 13:07:22,583 :INFO :setup :navigating to the url
+2023-07-14 13:07:25,183 :INFO :test_registration :Performing Registration
+2023-07-14 13:07:25,495 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 13:07:26,053 :INFO :test_registration :Performing Registration
+2023-07-14 13:07:26,053 :INFO :test_registration :Performing Registration
+2023-07-14 13:07:26,275 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:07:26,275 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:07:26,819 :INFO :test_registration :Performing Registration
+2023-07-14 13:07:26,819 :INFO :test_registration :Performing Registration
+2023-07-14 13:07:26,819 :INFO :test_registration :Performing Registration
+2023-07-14 13:07:27,041 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:07:27,041 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:07:27,041 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:07:27,573 :INFO :test_submit_msg :validate submit message
+2023-07-14 13:07:27,802 :INFO :setup :close the browser
+2023-07-14 13:15:37,810 :INFO :setup :launching browser
+2023-07-14 13:15:39,126 :INFO :setup :navigating to the url
+2023-07-14 13:15:41,742 :INFO :test_registration :Performing Registration
+2023-07-14 13:15:42,045 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 13:15:42,589 :INFO :test_registration :Performing Registration
+2023-07-14 13:15:42,589 :INFO :test_registration :Performing Registration
+2023-07-14 13:15:42,812 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:15:42,812 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:15:43,341 :INFO :test_registration :Performing Registration
+2023-07-14 13:15:43,341 :INFO :test_registration :Performing Registration
+2023-07-14 13:15:43,341 :INFO :test_registration :Performing Registration
+2023-07-14 13:15:43,566 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:15:43,566 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:15:43,566 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:15:44,097 :INFO :test_submit_msg :validate submit message
+2023-07-14 13:15:44,321 :INFO :setup :close the browser
+2023-07-14 13:42:54,096 :INFO :setup :launching browser
+2023-07-14 13:42:55,366 :INFO :setup :navigating to the url
+2023-07-14 13:42:58,045 :INFO :test_registration :Performing Registration
+2023-07-14 13:42:58,344 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 13:42:58,901 :INFO :test_registration :Performing Registration
+2023-07-14 13:42:58,901 :INFO :test_registration :Performing Registration
+2023-07-14 13:42:59,124 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:42:59,124 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:42:59,638 :INFO :test_registration :Performing Registration
+2023-07-14 13:42:59,638 :INFO :test_registration :Performing Registration
+2023-07-14 13:42:59,638 :INFO :test_registration :Performing Registration
+2023-07-14 13:42:59,865 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:42:59,865 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:42:59,865 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:43:00,381 :INFO :test_submit_msg :validate submit message
+2023-07-14 13:43:00,607 :INFO :setup :close the browser
+2023-07-14 13:45:12,858 :INFO :setup :launching browser
+2023-07-14 13:45:14,157 :INFO :setup :navigating to the url
+2023-07-14 13:45:16,948 :INFO :test_registration :Performing Registration
+2023-07-14 13:45:17,248 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 13:45:17,809 :INFO :test_registration :Performing Registration
+2023-07-14 13:45:17,809 :INFO :test_registration :Performing Registration
+2023-07-14 13:45:18,032 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:45:18,032 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:45:18,560 :INFO :test_registration :Performing Registration
+2023-07-14 13:45:18,560 :INFO :test_registration :Performing Registration
+2023-07-14 13:45:18,560 :INFO :test_registration :Performing Registration
+2023-07-14 13:45:18,784 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:45:18,784 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:45:18,784 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:45:19,312 :INFO :test_submit_msg :validate submit message
+2023-07-14 13:45:19,542 :INFO :setup :close the browser
+2023-07-14 13:46:03,544 :INFO :setup :launching browser
+2023-07-14 13:46:04,798 :INFO :setup :navigating to the url
+2023-07-14 13:46:07,703 :INFO :test_registration :Performing Registration
+2023-07-14 13:46:08,015 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 13:46:08,593 :INFO :test_registration :Performing Registration
+2023-07-14 13:46:08,593 :INFO :test_registration :Performing Registration
+2023-07-14 13:46:08,817 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:46:08,817 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:46:09,344 :INFO :test_registration :Performing Registration
+2023-07-14 13:46:09,344 :INFO :test_registration :Performing Registration
+2023-07-14 13:46:09,344 :INFO :test_registration :Performing Registration
+2023-07-14 13:46:09,568 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:46:09,568 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:46:09,568 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:46:10,097 :INFO :test_submit_msg :validate submit message
+2023-07-14 13:46:10,327 :INFO :setup :close the browser
+2023-07-14 13:47:57,278 :INFO :setup :launching browser
+2023-07-14 13:47:58,570 :INFO :setup :navigating to the url
+2023-07-14 13:48:00,950 :INFO :test_registration :Performing Registration
+2023-07-14 13:48:01,250 :INFO :test_registration :Name entered is Nivedita Gan
+2023-07-14 13:48:01,820 :INFO :test_registration :Performing Registration
+2023-07-14 13:48:01,820 :INFO :test_registration :Performing Registration
+2023-07-14 13:48:02,040 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:48:02,040 :INFO :test_registration :Name entered is Nivi
+2023-07-14 13:48:02,561 :INFO :test_registration :Performing Registration
+2023-07-14 13:48:02,561 :INFO :test_registration :Performing Registration
+2023-07-14 13:48:02,561 :INFO :test_registration :Performing Registration
+2023-07-14 13:48:02,779 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:48:02,779 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:48:02,779 :INFO :test_registration :Name entered is Niv Interation3
+2023-07-14 13:48:03,296 :INFO :test_submit_msg :validate submit message
+2023-07-14 13:48:03,526 :INFO :setup :close the browser
