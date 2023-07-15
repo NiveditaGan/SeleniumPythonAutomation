@@ -1,5 +1,6 @@
-Below Technicalities Used  
-Testing Approach---> TDD (Test Data Driven)  
+Below TechStack is Used
+Automation tool ---> Selenium  
+Test Framework Approach---> TDD (Test Data Driven)  
 Language----> Python  
 Testing Framework----> PyTest  
 Test Data----> Excel (openpyxl)  
