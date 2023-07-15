@@ -1,0 +1,36 @@
+pipeline
+{
+agent any
+
+stages
+{
+stage('Build')
+{
+steps
+{
+echo 'build the code'
+}
+}
+stage('Deploy')
+{
+steps
+{
+echo 'deploying the code'
+}
+}
+stage('Test')
+{
+steps
+{
+command "py.test --html=executionreport.html"
+}
+}
+stage('Release')
+{
+steps
+{
+echo 'release to prod'
+}
+}
+}
+}
