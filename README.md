@@ -1,8 +1,8 @@
 Below TechStack is Used  
-Automation tool ---> Selenium  
 Test Framework Approach---> TDD (Test Data Driven)  
 Language----> Python  
 Testing Framework----> PyTest  
+Automation tool ---> Selenium  
 Test Data----> Excel (openpyxl)  
 HTML Report---> pytest-html  
 Log---> logging(python inbuilt package)  
